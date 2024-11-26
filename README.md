@@ -3,7 +3,16 @@
 Astrophysics & Business Studies grad student. Interested in most things, from science based business to music production!
 
 Research intrests: astrobiology, exoplanets detection automation, computational astrophysics and simulations. 
-Free-time chess player and music producer. 
+
+International Sales and Marketing Management @ Copenhagen Business Academy, Denmark
+
+Astronomy @ University of Bologna, Italy
+
+Physics @ University of Aix-Marseille, France
+
+Astronomy and Business @ University of Leiden
+
+Free-time chess player and music producer. 😄
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoleonardi97)](https://github.com/marcoleonardi97/github-readme-stats)
