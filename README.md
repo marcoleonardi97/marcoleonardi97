@@ -4,21 +4,14 @@ Astrophysics & Business Studies grad student. Interested in most things, from sc
 
 Research intrests: astrobiology, exoplanets detection automation, computational astrophysics and simulations. 
 
-International Sales and Marketing Management @ Copenhagen Business Academy, Denmark
+- International Sales and Marketing Management @ Copenhagen Business Academy, Denmark
+- Astronomy @ University of Bologna, Italy
+- Physics @ University of Aix-Marseille, France
+- Astronomy and Business @ University of Leiden
 
-Astronomy @ University of Bologna, Italy
-
-Physics @ University of Aix-Marseille, France
-
-Astronomy and Business @ University of Leiden
-
-Free-time chess player and music producer. 😄
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoleonardi97)](https://github.com/marcoleonardi97/github-readme-stats)
-
-
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoleonardi97)](https://github.com/marcoleonardi97/github-readme-stats)
 <!--
 **marcoleonardi97/marcoleonardi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
