@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Astrophysics & Business Studies grad student. Interested in most things, from science based business to music production!
+
 Research intrests: astrobiology, exoplanets detection automation, computational astrophysics and simulations. 
 Free-time chess player and music producer. 
 
