@@ -2,7 +2,7 @@
 
 Astrophysics & Business Studies grad student. Interested in most things, from science based business to music production!
 
-Research intrests: astrobiology, exoplanets detection automation, computational astrophysics and simulations. 
+Research intrests: astrobiology, exoplanets detection, computational astrophysics and simulations. 
 
 - International Sales and Marketing Management @ Copenhagen Business Academy, Denmark
 - Astronomy @ University of Bologna, Italy
