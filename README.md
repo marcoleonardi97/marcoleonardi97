@@ -21,6 +21,11 @@ This project will leverage the Synthesizer software package, an open-source forw
 
 </details>
 
+<details>
+  <summary>Supernova on protoplanetary disk</summary>
+  The abundance of several species of short-lived radionuclides (SLRs), such as 26Al  and 60Fe, in the solar system has puzzled astronomers for some time (MacPherson et al. 1995). Key questions include: How did these volatile elements, particularly 26Al , enter the solar system? How did they come to be part of meteorites? and how did chondrules (the metallic grains containing these elements) form before chondrites (the meteorites that contain them)? There seems to be a lot we do not really understand. One possible explanation involves a nearby supernova when the Sun was still part of its parent star cluster. We're studying the dynamical effects of a supernova on a nearby planetary disk, with and without the external influence of a perturbing object.
+</details>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoleonardi97)](https://github.com/marcoleonardi97/github-readme-stats)
