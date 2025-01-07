@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Astrophysics & Business Studies grad student. Interested in most things, from science based business to music production!
+Astrophysics & Business Studies grad student. Interested in most things, from science based business to chess to music production!
 
 Research intrests: astrobiology, exoplanets detection, computational astrophysics and simulations. 
 
@@ -8,6 +8,24 @@ Research intrests: astrobiology, exoplanets detection, computational astrophysic
 - Astronomy @ University of Bologna, Italy
 - Physics @ University of Aix-Marseille, France
 - Astronomy and Business @ University of Leiden
+
+🔭 Currently working on: 
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 
 
