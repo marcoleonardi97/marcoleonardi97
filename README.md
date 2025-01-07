@@ -10,21 +10,15 @@ Research intrests: astrobiology, exoplanets detection, computational astrophysic
 - Astronomy and Business @ University of Leiden
 
 🔭 Currently working on: 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
 
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+<details>
+  <summary>The Galactic Waltz</summary>
+  
+  There has been a long-standing disagreement between the rotation curves of galaxies measured from observations and those measured from simulated galaxies. This mismatch has sparked numerous debates, including claims of "dark matter-free" galaxies and the inability of simulations to accurately replicate real galaxy dynamics. However, these assertions often overlook a critical issue: the measurement methodologies employed in observations and simulations are not directly comparable. The best observational techniques use spatially resolved spectra to derive the rotational velocities, while simulations explicitly measure the dynamics of the simulation element distribution.
+To address this, we must apply observational techniques to simulated galaxies, a process known as forward modelling. By doing so, we can create an apples-to-apples comparison and draw more reliable conclusions about the nature of these discrepancies.
+This project will leverage the Synthesizer software package, an open-source forward modelling tool in Python. We will begin by developing methods to generate and analyse synthetic spectral data cubes from the extensive simulated datasets produced by the FLAMINGO and COLIBRE projects. Once these methods are established, we will apply observational techniques to derive rotation curves from these synthetic data cubes. By comparing these derived curves with those observed in real galaxies, we aim to identify and understand the true sources of the discrepancies.
+This project will involve extensive programming and data manipulation and will develop computational data analysis skills, as well as providing a deep understanding of the observational aspects necessary for generating mock observables.
+
 </details>
 
 
